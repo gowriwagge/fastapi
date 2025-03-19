@@ -3,7 +3,7 @@
 This is a backend project built using **FastAPI** for developing RESTful APIs. It includes features such as user authentication, database management using SQLAlchemy, and password hashing.
 
 ## Features
-- User registration and login
+- User registration login
 - Password hashing and verification
 - CRUD operations for user data
 - Database integration using SQLAlchemy
