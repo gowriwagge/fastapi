@@ -1,6 +1,6 @@
 # FastAPI Backend Project
 
-This is a backend project built using **FastAPI** for developing RESTful APIs. It includes features such as user authentication, database management using SQLAlchemy, and password hashing with secure storage.
+This is a backend project built using **FastAPI** for developing RESTful APIs. It includes features such as user authentication, database management using SQLAlchemy, and password hashing.
 
 ## Features
 - User registration and login
