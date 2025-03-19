@@ -38,7 +38,7 @@ backend/
 ### Clone the repository:
 ```bash
 git clone https://github.com/gowriwagge/fastapi.git
-cd fastapi/backend
+
 ## Running the Server
 
 ### Start the server using Uvicorn:
