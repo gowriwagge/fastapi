@@ -23,3 +23,27 @@ backend/
 ├── index.py           # Main entry point
 ├── requirements.txt   # Python dependencies
 └── README.md          # Project documentation
+# FastAPI Project
+
+## Prerequisites
+- Python 3.10+
+- FastAPI
+- SQLAlchemy
+- Uvicorn
+- Pydantic
+- bcrypt
+
+## Installation
+
+### Clone the repository:
+```bash
+git clone https://github.com/gowriwagge/fastapi.git
+cd fastapi/backend
+## Running the Server
+
+### Start the server using Uvicorn:
+```bash
+uvicorn index:app --reload
+
+##Access the API at:
+http://127.0.0.1:8000
